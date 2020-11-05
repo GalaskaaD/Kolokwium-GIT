@@ -10,7 +10,3 @@ zmiana76
 =======
 zmiana99
 zmiana88
-Zmiana 22
-Zmiana 11
-=======
->>>>>>> parent of 0aabfd1... zmiana3
