@@ -1,10 +1,7 @@
 Zmiana01
-<<<<<<< HEAD
-prostaWersja
-
+Zmiana02
 Zmiana03
 Zmiana04
 Zmiana06
-=======
-prostaWersja
->>>>>>> parent of da48a1b... Zmiana02
+zmiana99
+zmiana88
