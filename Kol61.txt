@@ -1,12 +1,16 @@
 Zmiana01
+prostaWersja
+Zmiana02a
+Zmiana03
+Zmiana04
+Zmiana06
+prostaWersja
+Zmiana02
+prostaWersja
+prostaWersja
 Zmiana02
 Zmiana03
 Zmiana04
 Zmiana06
-<<<<<<< HEAD
 zmiana78
 zmiana76
-=======
-zmiana99
-zmiana88
-Zmiana 22
