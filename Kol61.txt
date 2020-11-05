@@ -1,3 +1,5 @@
 Zmiana01
 prostaWersja
 Zmiana02
+Zmiana03
+Zmiana04
